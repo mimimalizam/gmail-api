@@ -12,3 +12,6 @@ gem "rails_12factor"
 # Rails and JS
 gem "turbolinks"
 gem "jquery-rails"
+
+# Secret manager
+gem "dotenv-rails"
